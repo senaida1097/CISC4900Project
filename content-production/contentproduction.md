@@ -1,6 +1,6 @@
 ## Content Production
 
-# Content 1: Produced BC Brief Story: Eliyah Mizrahi 
+# Content 1: Produced BC Brief Stories 
 Date: 1/29/26
 
 Content Description: 
