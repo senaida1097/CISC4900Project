@@ -41,7 +41,7 @@ Date: 2/9/26
 Content Description: 
 Updated a table under the Health and Nutrition tab to ensure it reported accurate courses and the fee amounts implementing HTML.
 
-Status: Completed (see: content-production/contentproduction-screenshots/ ) for implementation of table
+Status: Completed (see: content-production/contentproduction-screenshots/"Updates to HTML Table.png") for implementation of table
 
 Link to site:
 	- https://www.brooklyn.edu/bursar/tuition-and-fees/materials-fees/#content-health-and-nutrition-sciences-department-area
