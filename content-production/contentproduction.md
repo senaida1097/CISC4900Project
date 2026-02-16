@@ -46,4 +46,19 @@ Status: Completed (see: content-production/contentproduction-screenshots/"Update
 Link to site:
 	- https://www.brooklyn.edu/bursar/tuition-and-fees/materials-fees/#content-health-and-nutrition-sciences-department-area
 
+# Content 5: Produced 5 events 
+Content Date: 2/11/26 
+
+Content Description: 
+Produced 5 different event in wordpress to the events page on the website. Included images, appropriate tags and categories to all 5 events. 
+
+Status: Completed
+
+Links to all 5 events:
+Event 1: https://www.brooklyn.edu/event/hess-week-2026-welcome-ceremomy/
+Event 2: https://www.brooklyn.edu/event/the-lives-rights-and-civil-liberties-of-asian-americans-in-an-age-of-mass-deportation/
+Event 3: https://www.brooklyn.edu/event/recuperating-collective-stories-writing-chinese-american-memoirs/
+Event 4: https://www.brooklyn.edu/event/asian-american-movements-for-racial-justice-resistance-and-solidarity-the-2026-robert-l-hess-memorial-lecture/
+Event 5: https://www.brooklyn.edu/event/elevating-the-career-connections-in-your-curriculum-2/
+
 
