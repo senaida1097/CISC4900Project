@@ -2,7 +2,7 @@
 
 ## Fix 1: Conservatory Videos  
 **Date:** 2/5/26
-**Related Audit:** 
+**Related Audit:**  
 **WCAG:** 1.2 AA Accessibility
 
 **Fix Description:**
@@ -33,3 +33,15 @@ Corrected spelling errors found by webwarden through wordpress an dmarked them a
 
  
  
+## Fix 3: Multiple email address updates
+**Date:** 2/11/26
+**Related Audit:** Update Email Addresses on Multiple Pages
+
+**Fix Description:**
+Updated email addresses on multiple pages by updating a resuable block where it updated the instances of the emails.
+
+**Before:**
+
+**After:** 
+- see fixes/fixed-screenshots/  
+
