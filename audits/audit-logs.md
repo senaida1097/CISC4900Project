@@ -1,7 +1,7 @@
 md 
 # Audit Log
 
-## Audit 1: Accessibility Fix Conservatory Videos
+# Audit 1: Accessibility Fix Conservatory Videos
 **Date:** 2/4/2026
 **WCAG:** 1.2 AA Accessibility 
 
@@ -18,7 +18,7 @@ fixes/fixed-screenshots/Before - sound file graphics.png, fixes/fixed-screenshot
 
 
 
-## Audit 2: Fix Spelling Errors
+# Audit 2: Fix Spelling Errors
 **Date:** 2/4/26
 **WCAG:** 1.2 AA Accessibility
 
@@ -29,7 +29,7 @@ Fix any spelling errors identified in webwarden and mark them "fixed" in webward
 See audits/audits-screenshots/Fix Spelling Errors Identified by WebWarden.png
 **Status:** Fixed (see fixes/fixed-screenshots/spelling errors from webwarden fixed.png
 
-## Audit 3: Email updates on multiple pages
+# Audit 3: Email updates on multiple pages
 **Date: 2/11/26
 
 **Issue Description**
@@ -38,5 +38,16 @@ Replace all instances of 2 email addresses and replace all instances with Zinas@
 **Task from Basecamp:** Yes
 
 **Status:** Fixed (see fixes/fixed-screenshots/  )
+
+
+# Audit 4: Update PDF 
+**Date: 2/16/26
+
+**Issue Description**
+Replace the fact sheet PDF on the Nutrition-MS
+
+**Task from basecamp:** Yes 
+
+**Status:** Fixed 
 
 

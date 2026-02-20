@@ -1,6 +1,6 @@
 # Fix Log
 
-## Fix 1: Conservatory Videos  
+# Fix 1: Conservatory Videos  
 **Date:** 2/5/26
 **Related Audit:**  
 **WCAG:** 1.2 AA Accessibility
@@ -17,7 +17,7 @@ Updated code to replcae links of the files with buttons to fix the insufficient 
 
 
 
-## Fix 2: Spelling Errors on Webwarden 
+# Fix 2: Spelling Errors on Webwarden 
 **Date:** 2/7/26
 **Related Audit:**
 **WCAG:** 1.2 AA Accessibility
@@ -33,7 +33,7 @@ Corrected spelling errors found by webwarden through wordpress an dmarked them a
 
  
  
-## Fix 3: Multiple email address updates
+# Fix 3: Multiple email address updates
 **Date:** 2/11/26
 **Related Audit:** Update Email Addresses on Multiple Pages
 
@@ -42,6 +42,15 @@ Updated email addresses on multiple pages by updating a resuable block where it 
 
 **Before:**
 
-**After:** 
-- see fixes/fixed-screenshots/  
+**After:**   
 
+# Fix 4: Update PDF 
+**Date:** 2/16/26
+**Related Audit:** Update PDF 
+
+**Fix Description:** 
+I added the pdf given into the media database on wordpress and replaced the PDF on the indicated page.
+
+**Before:**
+
+**After:** 
