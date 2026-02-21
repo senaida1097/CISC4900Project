@@ -41,6 +41,7 @@ Link to the site:
 Updated a table under the Health and Nutrition tab to ensure it reported accurate courses and the fee amounts implementing HTML.
 
 **Status:** Completed 
+
 (see: content-production/contentproduction-screenshots/"Updates to HTML Table.png") for implementation of table
 
 Link to site:
@@ -72,6 +73,7 @@ Create new reusbale block for the "Studnet Learning Outcomes" content on three p
 3. https://www.brooklyn.edu/academics/programs/earth-science-teacher-mat/#content-student-learning-outcomes-program-details
 
 **Status:** Completed 
+
 See: 
 content-production/contentproduction-screenshots/Reusable-Block-MiddleChildhoodEducation(5-9) 
 content-production/contentproduction-screenshots/Reusable-Block-AdolescenceScienceEducation(7-12) 
@@ -83,9 +85,7 @@ content-production/contentproduction-screenshots/Reusbale-Block-EarthScienceTeac
 **Content Description:** 
 Built a page in WordPress where I added the contents of a file provided.
 
-**Status:** 
-
-Completed
+**Status:** Completed
 
 No link provided yet since it was not set to public yet.
   
