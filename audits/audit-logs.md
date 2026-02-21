@@ -10,11 +10,11 @@ color contrast.
 
 **Task from Basecamp:** Yes 
 
-See audits/auditsscreenshots/Accessibility Fix Conservatory Videos.png
+		See audits/auditsscreenshots/Accessibility Fix Conservatory Videos.png
 
 **Status:** Fixed 
 
-see: fixes/fixed-screenshots/code implemented to replace file link with button.png, 
+		see: fixes/fixed-screenshots/code implemented to replace file link with button.png, 
 fixes/fixed-screenshots/Before - sound file graphics.png, fixes/fixed-screenshots/After - sound file graphics.png
 
 
@@ -28,9 +28,11 @@ Fix any spelling errors identified in webwarden and mark them "fixed" in webward
 
 **Task from Basecamp:** Yes 
 
-See audits/audits-screenshots/Fix Spelling Errors Identified by WebWarden.png
+		See audits/audits-screenshots/Fix Spelling Errors Identified by WebWarden.png
 
-**Status:** Fixed (see fixes/fixed-screenshots/spelling errors from webwarden fixed.png
+**Status:** Fixed 
+
+		(see fixes/fixed-screenshots/spelling errors from webwarden fixed.png
 
 
 # Audit 3: Email updates on multiple pages
