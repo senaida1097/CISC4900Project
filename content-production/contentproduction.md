@@ -1,4 +1,4 @@
-## Content Production
+# Content Production
 
 # Content 1: Produced BC Brief Stories 
 **Date:** 1/29/26
@@ -9,9 +9,12 @@ Produced three posts to the BC Brief section of the college website with added "
 **Status:** Completed
 
 Links to the sites:
-	- https://www.brooklyn.edu/nbs/sophomore-finishes-second-nationwide-in-elite-cybersecurity-competition/
-	- https://www.brooklyn.edu/academics/faculty-member-publishes-new-book-on-heart-centered-teaching/
-	- https://www.brooklyn.edu/hss/andrew-meyer-publishes-landmark-history-of-classical-china/ 
+	1. https://www.brooklyn.edu/nbs/sophomore-finishes-second-nationwide-in-elite-cybersecurity-competition/
+	2. https://www.brooklyn.edu/academics/faculty-member-publishes-new-book-on-heart-centered-teaching/
+	3. https://www.brooklyn.edu/hss/andrew-meyer-publishes-landmark-history-of-classical-china/ 
+
+
+
 
 # Content 2: Graduate Admission Events in CUNY Calendar
 **Date:** 2/3/26
@@ -22,6 +25,9 @@ Links to the sites:
 
 Links to sites:
 	- https://events.cuny.edu/c/brooklyn-college/
+
+
+
 
 # Content 3: New page built: Children Youth Studies 
 **Date:** 2/5/26
@@ -34,6 +40,9 @@ Built a new page titled "What Can You DO With A Degree in Children Youth Studies
 Link to the site:
 	- https://www.brooklyn.edu/children-and-youth-studies/what-can-you-do-with-a-degree-in-children-youth-studies/#content-on-campus-resources-tabs-698d4ee6af678
 
+
+
+
 # Content 4: Updated a Page's Table
 **Date:** 2/9/26
 
@@ -42,10 +51,13 @@ Updated a table under the Health and Nutrition tab to ensure it reported accurat
 
 **Status:** Completed 
 
-(see: content-production/contentproduction-screenshots/"Updates to HTML Table.png") for implementation of table
+		see: content-production/contentproduction-screenshots/"Updates to HTML Table.png"
 
 Link to site:
 	- https://www.brooklyn.edu/bursar/tuition-and-fees/materials-fees/#content-health-and-nutrition-sciences-department-area
+
+
+
 
 # Content 5: Produced 5 events 
 **Date:** 2/11/26 
@@ -63,6 +75,8 @@ Event 4: https://www.brooklyn.edu/event/asian-american-movements-for-racial-just
 Event 5: https://www.brooklyn.edu/event/elevating-the-career-connections-in-your-curriculum-2/
 
 
+
+
 # Content 6: Reusable Blocks 
 **Date:** 2/17/26
 
@@ -74,10 +88,12 @@ Create new reusbale block for the "Studnet Learning Outcomes" content on three p
 
 **Status:** Completed 
 
-See: 
-content-production/contentproduction-screenshots/Reusable-Block-MiddleChildhoodEducation(5-9) 
-content-production/contentproduction-screenshots/Reusable-Block-AdolescenceScienceEducation(7-12) 
-content-production/contentproduction-screenshots/Reusbale-Block-EarthScienceTeacher(7-12)
+		see: content-production/contentproduction-screenshots/Reusable-Block-MiddleChildhoodEducation(5-9) 
+		     content-production/contentproduction-screenshots/Reusable-Block-AdolescenceScienceEducation(7-12) 
+		     content-production/contentproduction-screenshots/Reusbale-Block-EarthScienceTeacher(7-12)
+
+
+
 
 # Content 7: Build New Privacy and Cookie Policy Page 
 **Date:** 2/18/26 

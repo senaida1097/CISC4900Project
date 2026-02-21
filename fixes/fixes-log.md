@@ -12,10 +12,14 @@
 		see: fixes/fixed-screenshots/code implemented to replace file link with button.png)
 
 **Before:** 
-see: fixes/fixed-screenshots/Before - sound file graphics.png
+
+		see: fixes/fixed-screenshots/Before - sound file graphics.png
 
 **After:** 
-see: fixes/fixed-screenshots/After - sound file graphics.png
+
+		see: fixes/fixed-screenshots/After - sound file graphics.png
+
+
 
 
 
@@ -33,7 +37,8 @@ Corrected spelling errors found by webwarden through wordpress and marked them a
 
 
 **After:** 
-see: fixes/fixed-screenshots/spelling errors from webwarden fixed.png
+
+		see: fixes/fixed-screenshots/spelling errors from webwarden fixed.png
 
  
  
@@ -50,6 +55,8 @@ Updated email addresses on multiple pages by updating an existing reusable block
 **Before:**
 
 **After:**   
+
+
 
 
 # Fix 4: Update PDF 
