@@ -62,3 +62,15 @@ Event 4: https://www.brooklyn.edu/event/asian-american-movements-for-racial-just
 Event 5: https://www.brooklyn.edu/event/elevating-the-career-connections-in-your-curriculum-2/
 
 
+# Content 6: Reusable Blocks 
+Content Date: 2/17/26
+
+Content Description: 
+Create new reusbale block for the "Studnet Learning Outcomes" content on three pages:
+1. https://www.brooklyn.edu/academics/programs/middle-childhood-education-science-ma/#content-student-learning-outcomes-program-details
+2. https://www.brooklyn.edu/academics/programs/adolescence-science-education-mat/#content-student-learning-outcomes-program-details
+3. https://www.brooklyn.edu/academics/programs/earth-science-teacher-mat/#content-student-learning-outcomes-program-details
+
+Status: Completed 
+See content-production/contentproduction-screenshots/ )
+
