@@ -36,9 +36,18 @@ Fix any spelling errors identified in webwarden and mark them "fixed" in webward
 		see: fixes/fixed-screenshots/spelling errors from webwarden fixed.png
 
 
+# Audit 3: Empty Headings
+**Date:** 2/9/26
+
+**Issue Description:**
+Webwarden scan found empty headings that need to be removed from multiple pages
+
+**Task from Basecamp:** Yes
+
+**Status:** FIxed
 
 
-# Audit 3: Email updates on multiple pages
+# Audit 4: Email updates on multiple pages
 **Date:** 2/11/26
 
 **Issue Description:** 
@@ -50,8 +59,7 @@ Replace all instances of 2 email addresses and replace all instances with Zinas@
 
 
 
-
-# Audit 4: Update PDF 
+# Audit 5: Update PDF 
 **Date:** 2/16/26
 
 **Issue Description:** 
@@ -62,7 +70,7 @@ Replace the fact sheet PDF on the Nutrition-MS
 **Status:** Fixed 
 
 
-# Audit 5: Insecure Connection URLs 
+# Audit 6: Insecure Connection URLs 
 **Date:** 2/23/26
 
 **Issue Description:** 
