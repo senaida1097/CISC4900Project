@@ -61,3 +61,14 @@ Replace the fact sheet PDF on the Nutrition-MS
 
 **Status:** Fixed 
 
+
+# Audit 5: Insecure Connection URLs 
+**Date:** 2/23/26
+
+**Issue Description:** 
+Fix all insecure Connection URLs found by webwarden and follow recommended solutions.
+
+**Task From Basecamp:** Yes
+
+**Status:** In Progress
+
