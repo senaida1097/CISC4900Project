@@ -72,3 +72,20 @@ I added the pdf given into the media database on wordpress and replaced the PDF 
 **Before:**
 
 **After:** 
+
+**Status:** Fixed
+
+
+# Fix 5: Latest Scan "Empty Headings"
+**Date:** 2/26/26
+
+**Related Audit:** Empty Headings
+		in: audits/audit-logs.md
+**Fix Description:** Removed empty headings found by webwarden in multiple pages. 
+
+**Before:**
+
+**After:** 
+
+**Status:** Fixed
+
