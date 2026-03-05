@@ -70,6 +70,7 @@ Replace the fact sheet PDF on the Nutrition-MS
 **Status:** Fixed 
 
 
+
 # Audit 6: Insecure Connection URLs 
 **Date:** 2/23/26
 
@@ -78,5 +79,19 @@ Fix all insecure Connection URLs found by webwarden and follow recommended solut
 
 **Task From Basecamp:** Yes
 
-**Status:** In Progress
+**Status:** In Progress -- new ones were found
+
+
+
+# Audit 7: 700 Alt-text Images Spreadsheet
+**Date:** 3/3/26
+
+**Issue Description:** 
+Create a spreadsheet with the links of the images and their alt-text descriptions. 
+Will help us if we can implement this fix on the back end.
+
+**Task From Basecamp:** Yes 
+
+**Status:** In Progress 
+
 
