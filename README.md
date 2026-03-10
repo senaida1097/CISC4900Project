@@ -9,3 +9,5 @@ This CISC4900 Project repository documents my internship project whose focus inv
 • HTML semantic structure
 • SEO practices
 • Accessibility Tools
+
+	https://www.w3.org/WAI/fundamentals/accessibility-intro/
