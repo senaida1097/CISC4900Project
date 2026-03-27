@@ -95,3 +95,13 @@ Will help us if we can implement this fix on the back end.
 **Status:** In Progress 
 
 
+
+# Audit 8: Fix Code for A Reusbale Block
+**Date:**3/27/26
+
+**Issue Description:**
+There is a Brooklyn College Magazine Logo that appears on multiple pages through a resubale block as a H1. Need to remove that logo and add a regualar hmtl text as H1.
+
+
+**Task from Basecamp:** Yes
+
