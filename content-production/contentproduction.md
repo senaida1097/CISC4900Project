@@ -105,3 +105,26 @@ Built a page in WordPress where I added the contents of a file provided.
 
 No link provided yet since it was not set to public yet.
   
+
+
+# Content 8: Financial Aid Page Updates 
+**Date:** 3/19/26
+
+**Content Description:**
+Multiple sections of pages.
+ Provide more deatils about the needed chane: We are requesting an update to the COA webpage to refelct costs. The attached word document with tracked (red) changes outlines all the changes that need to be made to update the page.
+
+**Status:** Completed
+		see: https://www.brooklyn.edu/admissions-aid/financial-aid-scholarships/cost-of-attendance/
+
+
+
+#Content 9: Prep Center Page Updates
+**Date:** 3/20/26
+
+**Content Description:** 
+Use the data given from the prep center, to make the neccessary updates and changes to the approriate pages where the information need to be added or updated.
+
+**Status:** Completed
+
+ 
