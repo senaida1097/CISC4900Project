@@ -105,6 +105,7 @@ I added the pdf given into the media database on wordpress and replaced the PDF 
 		see example of accessibility approved: fixes/fixed-screenshots/"BC Magazine Accessibility Example" 
 
 **After:** 
+		
 		see script implemented: fixes/fixed-screenshots/"BC Magazine H1 Heading"
 
 **Status:** Fixed
