@@ -91,3 +91,21 @@ I added the pdf given into the media database on wordpress and replaced the PDF 
 
 **Status:** Fixed
 
+
+
+# Fix 6: BC Magazine H1 Heading 
+**Date:** 4/3/26 
+
+**Related Audit:** BC Magazine H1 Accessibility Issue
+
+**Fix Description:** The fix was applied through a script that replaced the H1 with the logo on several block plugins. Teamate tried fixing through the backend but instead was done through the script. 
+
+**Before:** 
+
+		see example of accessibility approved: fixes/fixed-screenshots/"BC Magazine Accessibility Example" 
+
+**After:** 
+		see script implemented: fixes/fixed-screenshots/"BC Magazine H1 Heading"
+
+**Status:** Fixed
+ 

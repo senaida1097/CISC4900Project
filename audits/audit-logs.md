@@ -96,12 +96,13 @@ Will help us if we can implement this fix on the back end.
 
 
 
-# Audit 8: Fix Code for A Reusbale Block
+# Audit 8: BC Magazine H1 Accessibility Issue
 **Date:**3/27/26
 
 **Issue Description:**
-There is a Brooklyn College Magazine Logo that appears on multiple pages through a resubale block as a H1. Need to remove that logo and add a regualar hmtl text as H1.
+There is a Brooklyn College Magazine Logo that appears on multiple pages through a reusable block as a H1, this violates the accessibility guidelines. Need to remove that logo and add a regualar H1 text.
 
 
-**Task from Basecamp:** Yes
+**Task from Basecamp:** No
 
+**Status:** Completed 
