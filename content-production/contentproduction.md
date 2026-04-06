@@ -103,7 +103,6 @@ Built a page in WordPress where I added the contents of a file provided.
 
 **Status:** Completed
 
-No link provided yet since it was not set to public yet.
   
 
 
