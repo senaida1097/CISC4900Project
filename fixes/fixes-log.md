@@ -110,3 +110,13 @@ I added the pdf given into the media database on wordpress and replaced the PDF 
 
 **Status:** Fixed
  
+
+
+# Fix 7: Broken Links
+**Date:** 5/6/26
+
+**related Audit:** Fix Broken Links
+
+**Fix Description:** Fixed any links that led to missing, outdated or inaccessible content.
+
+
