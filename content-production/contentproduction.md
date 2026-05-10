@@ -127,3 +127,10 @@ Use the data given from the prep center, to make the neccessary updates and chan
 **Status:** Completed
 
  
+
+# Content 10: LAMEM Courses
+**Date:** 3/24/26
+
+**Content Description:** Update courses provided by department. 
+
+**Satus:** Completed

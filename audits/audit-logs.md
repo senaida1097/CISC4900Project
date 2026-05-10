@@ -79,7 +79,7 @@ Fix all insecure Connection URLs found by webwarden and follow recommended solut
 
 **Task From Basecamp:** Yes
 
-**Status:** In Progress -- new ones were found
+**Status:** Completed 954 out of 1985
 
 
 
@@ -92,11 +92,24 @@ Will help us if we can implement this fix on the back end.
 
 **Task From Basecamp:** Yes 
 
-**Status:** In Progress 
+**Status:** Completed 570 out of 921
 
 
 
-# Audit 8: BC Magazine H1 Accessibility Issue
+# Audit 8: LAMEM Courses
+**Date:** 3/24/26
+
+**Issue Description:**
+Courses do not refelct correct informations. Updates received from department must be done.
+
+**Task From Basecamp:** Yes
+
+**Status**: Completed
+
+
+
+
+# Audit 9: BC Magazine H1 Accessibility Issue
 **Date:**3/27/26
 
 **Issue Description:**
@@ -106,3 +119,16 @@ There is a Brooklyn College Magazine Logo that appears on multiple pages through
 **Task from Basecamp:** No
 
 **Status:** Completed 
+
+
+
+# Audit 10: Fix Broken Links
+**Date:** 5/1/26
+
+**Issue:** Fix broken links found by webwarden scan.
+
+**Task from Basecamp:** Yes
+
+**Status:** Completed  
+
+
